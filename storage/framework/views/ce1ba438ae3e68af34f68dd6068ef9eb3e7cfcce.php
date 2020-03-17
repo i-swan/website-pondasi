@@ -1,0 +1,1 @@
+kegiatan<?php /**PATH C:\xampp\htdocs\pondasi\resources\views/kegiatan.blade.php ENDPATH**/ ?>
